@@ -5,6 +5,7 @@ This project addresses task planning for human–robot collaboration (HRC) in st
 The optimization is solved using Constraint Programming (CP) implemented through Google OR-Tools.
 
 This approach allows for efficient allocation and sequencing of human and robot tasks, improving assembly coordination and productivity while mitigating human fatigue.
+<img width="2368" height="853" alt="image" src="https://github.com/user-attachments/assets/cd70e596-b928-47d1-8ac9-efee7dd4d0cd" />
 
 
 Paper:
